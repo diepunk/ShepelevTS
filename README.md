@@ -21,7 +21,7 @@
 
 # ✅ Лабораторная 3
 В качестве третьей лабораторной работы планируется выполнить работу с использованием Сisco Packet Tracer.
-[Отчёт](https://drive.google.com/file/d/1uiDCQQu7SaigFDE7b_SEQyhMWEDRV07a/view?usp=share_link)
+[Отчёт](https://drive.google.com/file/d/1iUfLqwC__eRu-MQgdJyIrF4lEo3DsiZw/view?usp=sharing)
 
 # Экзаменационный билет №6
 ## Ответ на экзаменационный [билет №6](https://github.com/stankin/inet-2022/wiki/exam06) представлен в разделе "билеты к экзамену".
