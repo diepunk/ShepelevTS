@@ -21,6 +21,7 @@
 
 # ✅ Лабораторная 3
 В качестве третьей лабораторной работы планируется выполнить работу с использованием Сisco Packet Tracer.
+
 [Отчёт](https://drive.google.com/file/d/1iUfLqwC__eRu-MQgdJyIrF4lEo3DsiZw/view?usp=sharing)
 
 # Экзаменационный билет №6
