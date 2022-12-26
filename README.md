@@ -32,3 +32,4 @@
 # Экзаменационный билет №6
 ## Ответ на экзаменационный [билет №6](https://github.com/stankin/inet-2022/wiki/exam06) представлен в разделе "билеты к экзамену".
 Ссылка на последний личный коммит: [Commited](https://github.com/stankin/inet-2022/wiki/exam06/_compare/99f51bd05801a8d2ae3bfd6aa346518b2db964bf...b8eca61c332e7d6c601ea1aa257dcba1a840fc25)
+Ссылка на свой источник: [Commited](https://github.com/stankin/inet-2022/wiki/exam06/_compare/71c429c590655c9f917f145ae021c39e0d934559...dbdf225f419413f89433ca1a3351cb611993f251)
